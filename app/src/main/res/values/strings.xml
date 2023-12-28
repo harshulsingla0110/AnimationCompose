@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AnimationsCompose</string>
+    <string name="animated_content_sample_1">Animated Content: Sample 1</string>
+    <string name="animated_content_sample_2">Animated Content: Sample 2</string>
+    <string name="crossfade_animation_sample">Crossfade Animation Sample</string>
+    <string name="user_bio_short">Transforming lines of code into digital poetry. Passionate about algorithms, debugging, and creating elegant solutions. Coding is not just a skill; it\'s an art form for me.</string>
+    <string name="user_bio_long">"Transforming lines of code into digital poetry. Passionate about algorithms, debugging, and creating elegant solutions. Coding is not just a skill; it's an art form for me."
+"\n\nIn the realm of 0s and 1s, I weave the magic of logic. A coding virtuoso with a penchant for turning complex problems into elegant solutions. Debugger by day, dreamer by night."
+"\n\nCompiler of dreams, debugger of reality. Crafting software symphonies one line at a time. When not coding, I'm probably lost in the enchanting labyrinth of algorithms."</string>
+    <string name="expand">Expand</string>
 </resources>
